@@ -185,7 +185,6 @@ body {
     line-height: 34px;
     font-weight: 500;
     font-family: 'Inter', sans-serif;
-
 }
 /* CONTENT ELEMENT LIST ALL */
 .content-section-list-all
@@ -376,10 +375,8 @@ body {
 .cotent-section-three-span span {
     opacity: 0.4;
 }
-/* *END: FOOTER SECTION THREE */
-/* !END: FOOTER MAIN */
-.footer-section-three,
-.footer-section-two {
+/* ? BACKGROUND VIDEO FOOTER */
+#footer-main {
     position: relative;
     z-index: 1;
 }
@@ -396,3 +393,5 @@ body {
     opacity: 0.4;
     filter: blur(9px);
 }
+/* *END: FOOTER SECTION THREE */
+/* !END: FOOTER MAIN */
